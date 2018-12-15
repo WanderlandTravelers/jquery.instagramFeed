@@ -1,0 +1,22 @@
+{
+  "name": "jquery.instagramfeed",
+  "version": "1.0.0",
+  "description": "Instgram feed without using the API",
+  "main": "jquery.instagramFeed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanderlandTravelers/jquery.instagramFeed.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WanderlandTravelers/jquery.instagramFeed/issues"
+  },
+  "homepage": "https://github.com/WanderlandTravelers/jquery.instagramFeed#readme"
+}
